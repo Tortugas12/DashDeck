@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DashDeck</string>
+    <string name="share_pin_note_label">Pin to DashDeck</string>
+    <string name="notification_listener_label">DashDeck Notifications &amp; Media</string>
+    <string name="widget_dashboard_label">DashDeck Full Dashboard</string>
+    <string name="widget_dashboard_description">All-in-one customizable dashboard with clock, calendar, notifications, notes, media, and app launcher.</string>
+    <string name="widget_modular_label">DashDeck Modular Widget</string>
+    <string name="widget_modular_description">Compact customizable dashboard widget for 1–2 focused modules.</string>
+    <string name="widget_config_label">Configure DashDeck Widget</string>
+    <string name="folder_popup_label">DashDeck Folder</string>
+</resources>
