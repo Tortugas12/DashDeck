@@ -44,3 +44,18 @@ captures/
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+# Signing configs, certificates, and environment secrets
+keystore.properties
+signing.properties
+*.p12
+*.pem
+*.key
+*.cer
+*.crt
+.env
+.env.*
+google-services.json
+
+# Local planning documents
+*_repo_organization_plan.md
